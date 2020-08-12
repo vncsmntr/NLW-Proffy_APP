@@ -4,7 +4,7 @@
     "slug": "mobile",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/ProffyIcon.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
@@ -23,7 +23,7 @@
       "package": "com.yourcompany.yourappname"
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/ProffyFavIcon.png"
     }
   }
 }
