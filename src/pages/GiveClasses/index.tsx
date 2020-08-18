@@ -3,7 +3,7 @@ import { View, Image, ImageBackground, Text, Linking } from 'react-native';
 import styles from './styles'
 import giveClassesBgImage from '../../assets/images/give-classes-background.png';
 import { RectButton } from 'react-native-gesture-handler';
-import { useNavigation } from '@react-navigation/native';
+//import { useNavigation } from '@react-navigation/native';
 
 function GiveClasses() {
 

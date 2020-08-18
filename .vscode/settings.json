@@ -1,0 +1,14 @@
+{
+  "colorize.colorized_variables": [
+
+    "CSS",
+    "Typescript",
+    "JSX",
+    "Javascript"
+  ],
+  "colorize.include": [
+    "Typescript",
+    "JSX",
+    "Javascript"
+  ]
+}
