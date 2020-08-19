@@ -2,9 +2,9 @@
   "colorize.colorized_variables": [
 
     "CSS",
-    "Typescript",
-    "JSX",
-    "Javascript"
+    "LESS",
+    "SASS",
+    "STYLUS"
   ],
   "colorize.include": [
     "Typescript",
